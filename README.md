@@ -1,5 +1,6 @@
-#LinuxExperience
-###roteiro do script
+# LinuxExperience 
+
+## roteiro do script
 - verificado atualização do sistema
 - atualização do sistema
 - instalação do apache
@@ -9,4 +10,3 @@
 - descompactação do arquivo
 - entrando na pasta descompactada
 - copiando os arquivos da pasta para a pasta do servidor local
-
