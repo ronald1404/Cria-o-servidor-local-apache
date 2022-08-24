@@ -1,7 +1,7 @@
 # LinuxExperience 
 
 ## roteiro do script
-- verificado atualização do sistema
+- verificando atualização do sistema
 - atualização do sistema
 - instalação do apache
 - instalação do unzip
